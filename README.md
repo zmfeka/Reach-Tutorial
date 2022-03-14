@@ -1,2 +1,2 @@
 # Reach-Tutorial
-Rock, paper, scissors app with wager
+Build a bluffing game like Coup or Skull.
